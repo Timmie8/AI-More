@@ -94,3 +94,4 @@ try:
 
 except Exception as e:
     st.info(f"Selecteer een geldige ticker om de AI te starten. (Fout: {e})")
+
